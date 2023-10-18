@@ -31,28 +31,20 @@
         <code>seaborn</code>
         <code>matplotlib</code>
         <code>numpy</code>
-        <code>statistics</code>
-        <code>scipy</code>
-        <code>sklearn</code>
 </td>
 </tr>
 <tr>
-   <td>2</td>  
+   <td>2</td>
    <td>
-      <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
-         Создание дашборда по пользовательским событиям для агрегатора
-новостей</a>
-     </b>
+         Создание дашборда по пользовательским событиям для агрегатора новостей
  </td>
  <td>
-    Изучила влияние различных факторов на стоимость недвижимости.
+    Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.
 </td>
 <td>
-    <code>pandas</code><br>
-    <code>matplotlib</code><br>
-    <code>numpy</code><br>
-    <code>datetime</code><br>
+        <code>Tableu</code>
+        <code>pandas</code><br>
+        <code>sqlalchemy</code><br>
 </td>
 </tr>
 <tr>
@@ -67,10 +59,8 @@
     С помощью SQL посчитала и визуализировала ключевые метрики сервис-системы вопросов и ответов о программировании.
 </td>
 <td>
-        <code>pandas</code><br>
-        <code>matplotlib</code><br>
-        <code>stats</code><br>
-        <code>numpy</code><br><br>
+        <code>SQL</code><br>
+        <code>PostgreSQL</code><br>
 </td>
 </tr>
 <tr>
