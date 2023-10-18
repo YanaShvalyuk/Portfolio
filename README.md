@@ -13,21 +13,28 @@
 <tbody  valign="top">
     <tr>
        <td>1</td>
-       <td>
-          <b>
-             <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
-             Исследование надежности заемщиков</a>
-          </b>
-     </td>
-     <td>
-        Определил, какие факторы и каким образом влияют на способность клиента банка погасить кредит в срок.
-    </td>
-    <td>
-        <code>pandas</code><br/>
-        <code>pymystem3</code><br/>
-        <code>nltk.stem</code><br/>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/12_final_project">
+         Выпускной проект</a>
+     </b>
+ </td>
+ <td>
+   1. Проект для банка: анализ оттока клиентов<br>
+   2. A/B-тест: проверка результатов<br>
+   3. SQL: создание запросов
+</td>
+<td>
+        <code>SQL</code>
+        <code>Tableau</code>
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib</code>
         <code>numpy</code>
-    </td>
+        <code>statistics</code>
+        <code>scipy</code>
+        <code>sklearn</code>
+</td>
 </tr>
 <tr>
    <td>2</td>  
