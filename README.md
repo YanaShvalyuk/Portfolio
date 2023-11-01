@@ -16,7 +16,7 @@
        <td>1</td>
    <td>
       <b>
-         <a href="https://github.com/YanaShvalyuk/Portfolio_Shvalyuk/blob/1e364cd02c18e067a7ffed3519596850aadd872a/Bank%20project.ipynb">
+         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/96eab5d011b8303ae27c04e19b61780a2a05a78c/Bank%20project.ipynb">
          Проект для банка: анализ оттока клиентов</a>
      </b>
  </td>
@@ -35,7 +35,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/YanaShvalyuk/Portfolio_Shvalyuk/blob/c60a2da1f5a35af9a6b4c10858d7b1fa93125830/A%3AB%20test.ipynb">
+         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/96eab5d011b8303ae27c04e19b61780a2a05a78c/A%3AB%20test.ipynb">
          A/B-тест: проверка результатов</a>
      </b>
  </td>
@@ -53,7 +53,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/YanaShvalyuk/Portfolio_Shvalyuk/blob/c60a2da1f5a35af9a6b4c10858d7b1fa93125830/SQL%20project.ipynb">
+         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/96eab5d011b8303ae27c04e19b61780a2a05a78c/SQL%20project.ipynb">
          SQL: создание запросов</a>
      </b>
  </td>
