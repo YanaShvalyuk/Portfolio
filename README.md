@@ -53,7 +53,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/96eab5d011b8303ae27c04e19b61780a2a05a78c/SQL%20project.ipynb">
+         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/08863f4c85ecfbc69d391e277a8d87c2a8aa74bd/SQL%20project.ipynb">
          SQL: создание запросов</a>
      </b>
  </td>
