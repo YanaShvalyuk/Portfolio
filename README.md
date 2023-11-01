@@ -1,3 +1,4 @@
+# Portfolio_Shvalyuk
 # Портфолио
 Здесь собраны некоторые реализованные проекты
 
@@ -15,17 +16,14 @@
        <td>1</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/12_final_project">
-         Выпускной проект</a>
+         <a href="https://github.com/YanaShvalyuk/Portfolio_Shvalyuk/blob/1e364cd02c18e067a7ffed3519596850aadd872a/Bank%20project.ipynb">
+         Проект для банка: анализ оттока клиентов</a>
      </b>
  </td>
  <td>
-   1. Проект для банка: анализ оттока клиентов<br>
-   2. A/B-тест: проверка результатов<br>
-   3. SQL: создание запросов
+   Анализ данных клиентов банка, составление портрета клиентов, которые склонны уходить из банка. Создание дашборда по ключевым характеристикам клиентов.
 </td>
 <td>
-        <code>SQL</code>
         <code>Tableau</code>
         <code>pandas</code>
         <code>seaborn</code>
@@ -37,33 +35,33 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/03_statistics_telecom">
-         Создание дашборда по пользовательским событиям для агрегатора новостей</a>
+         <a href="https://github.com/YanaShvalyuk/Portfolio_Shvalyuk/blob/c60a2da1f5a35af9a6b4c10858d7b1fa93125830/A%3AB%20test.ipynb">
+         A/B-тест: проверка результатов</a>
      </b>
  </td>
  <td>
-    Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.
+    Анализ результатов A/B-теста и оценка корректности проведения теста.
 </td>
 <td>
-        <code>Tableu</code>
-        <code>pandas</code><br>
-        <code>sqlalchemy</code><br>
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib</code>
+        <code>numpy</code>
 </td>
 </tr>
 <tr>
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/03_statistics_telecom">
-         Анализ сервиса вопросов и ответов по программированию</a>
+         <a href="https://github.com/YanaShvalyuk/Portfolio_Shvalyuk/blob/c60a2da1f5a35af9a6b4c10858d7b1fa93125830/SQL%20project.ipynb">
+         SQL: создание запросов</a>
      </b>
  </td>
  <td>
-    С помощью SQL посчитала и визуализировала ключевые метрики сервис-системы вопросов и ответов о программировании.
+    Составление SQL-запросов для сервиса по продаже электронных книг.
 </td>
 <td>
         <code>SQL</code><br>
-        <code>PostgreSQL</code><br>
 </td>
 </tr>
 </tbody>
