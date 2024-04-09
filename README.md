@@ -31,7 +31,7 @@
 </td>
 </tr>
 <tr>
-   <td>3</td>
+   <td>2</td>
    <td>
       <b>
          <a href="https://github.com/YanaShvalyuk/Portfolio/blob/96eab5d011b8303ae27c04e19b61780a2a05a78c/A%3AB%20test.ipynb">
@@ -48,8 +48,26 @@
         <code>numpy</code>
 </td>
 </tr>
-<tr>
+ <tr>
    <td>3</td>
+   <td>
+      <b>
+         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/08863f4c85ecfbc69d391e277a8d87c2a8aa74bd/SQL%20project.ipynb">
+         Анализ данных по расходованию бюджета</a>
+     </b>
+ </td>
+ <td>
+    Анализ данных по расходам компании по командировкам сотрудников.
+</td>
+<td>
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib</code>
+        <code>numpy</code>
+</td>
+</tr>
+<tr>
+   <td>4</td>
    <td>
       <b>
          <a href="https://github.com/YanaShvalyuk/Portfolio/blob/08863f4c85ecfbc69d391e277a8d87c2a8aa74bd/SQL%20project.ipynb">
