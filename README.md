@@ -52,7 +52,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/08863f4c85ecfbc69d391e277a8d87c2a8aa74bd/SQL%20project.ipynb">
+         <a href="https://github.com/YanaShvalyuk/Portfolio/blob/c425a465e8db860a2e361ab10245e54432a0ce64/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%20%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0.ipynb">
          Анализ данных по расходованию бюджета</a>
      </b>
  </td>
